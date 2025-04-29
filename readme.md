@@ -7,3 +7,12 @@ It focuses on creating and managing a small bookstore database using **PostgreSQ
 - Sample data insertion
 - Basic and advanced SQL queries
 - Joins, aggregations, filtering, and data manipulation`
+
+## Files Included
+
+- `PostgreSQL_Assignment.sql`: Main SQL file containing:
+  - Table schemas
+  - Sample data
+  - SQL queries with comments
+  
+  ---
